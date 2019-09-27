@@ -110,3 +110,11 @@ venv.bak/
 # rust
 target/
 .lock
+
+# virtual environment
+bin/
+include/
+lib/
+lib64
+share/
+*.cfg
